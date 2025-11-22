@@ -55,7 +55,7 @@ document.getElementById("create-form").addEventListener("submit", function(event
         login: email, 
         password: password, 
         transactions: []
-     });
+    });
 
     myModal.hide();
 
